@@ -44,5 +44,5 @@
 
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> En cas d'instabilité de la mesure, relancer la tare avec la masse étalon de 100g.
 
