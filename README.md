@@ -8,9 +8,15 @@
 
 # Fonctionnalités 
 
-- Tare de la balance avec une masse étalon de 100g (HX711)
-- Bouton peser pour la mesure d'une masse ∈ [0 ; 200g] (HX711)
-- Lecture de la témpérature (DHT11)
+- Tare de la balance avec une masse étalon de 100g
+  
+- Bouton peser pour la mesure d'une masse ∈ [0 ; 200g]
+  
+- Lecture & affichage de la témpérature (DHT11)
+  
 - Affichage formaté de la masse sur Node-RED: **m = [masse] ± [incertitude] g**
-- Choix de l'affiche : Balance classée ou Balance étalonnée
+  
+- Choix de l'affiche : $$Balance classée** ou **Balance étalonnée**
+
+- 
 
