@@ -9,9 +9,10 @@
 # Fonctionnalités 
 
 - Tare de la balance avec une masse étalon de 100g (HX711)
-- Peser d'une masse ∈ [0 ; 200g] (HX711)
+- Bouton peser pour la mesure d'une masse ∈ [0 ; 200g] (HX711)
 - Lecture de la témpérature (DHT11)
-- Affichage formaté de la masse : m = [masse] ± [incertitude] g
+- Affichage formaté de la masse sur Node-RED: m = [masse] ± [incertitude] g
+- Choix de l'affiche : Balance classée ou Balance étalonnée
 
 
 ⚖️ Projet Balance Connectée - BUT3 MP Marseille
