@@ -20,6 +20,10 @@
   
 - Choix de l'affichage : **Balance étalonnée** ou **Balance classée**.
 
+- Affichage de l'heure et de la date de la mesure
+
+- Background animé : dégradé blanc/gris
+
 
 # Matériels utilités
 
