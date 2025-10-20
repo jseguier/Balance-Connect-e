@@ -21,7 +21,7 @@
 - Choix de l'affichage : **Balance étalonnée** ou **Balance classée**.
 
 
-# Matériels & Logiciels utilisés
+# Matériels utilités
 
 | Quantité | Composant | 
 |  :---:  | :---:  | 
@@ -29,6 +29,8 @@
 | 1 | `Capteur de température DHT11` | 
 | 1 | `Convertiseur & amplificateur HX711` | 
 | 1 | `Cellule de charge` | 
+
+# Logiciels utilisés
 
 | Logiciels | 
 |  :---:  |
