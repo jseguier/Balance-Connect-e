@@ -27,12 +27,16 @@
 
 # Matériels utilités
 
+<img width="2724" height="1240" alt="image" src="https://github.com/user-attachments/assets/e46aebbf-791b-450d-93dd-db6052637d97" />
+
+
 | Quantité | Composant | 
 |  :---:  | :---:  | 
 | 1 | `Microcontrôleur ESP32` | 
 | 1 | `Capteur de température DHT11` | 
 | 1 | `Convertiseur & amplificateur HX711` | 
 | 1 | `Cellule de charge` | 
+
 
 # Logiciels utilisés
 
@@ -41,10 +45,6 @@
 | `Visual Studio Code &  PlatformIO` | 
 | `Mosquitto (protocole MQTT)` | 
 | `Node-RED (interface utilisateur)` | 
-
-
-<img width="2724" height="1240" alt="image" src="https://github.com/user-attachments/assets/e46aebbf-791b-450d-93dd-db6052637d97" />
-
 
 > [!WARNING]
 > En cas d'instabilité de la mesure, relancer la tare avec la masse étalon de 100g.
