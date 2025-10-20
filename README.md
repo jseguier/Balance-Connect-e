@@ -16,7 +16,7 @@
   
 - Affichage formaté de la masse sur Node-RED: **m = [masse] ± [incertitude] g**
   
-- Choix de l'affiche : $$Balance classée** ou **Balance étalonnée**
+- Choix de l'affiche : **Balance classée** ou **Balance étalonnée**
 
 - 
 
