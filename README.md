@@ -11,7 +11,9 @@
 - Tare de la balance avec une masse étalon de 100g (HX711)
 - Peser d'une masse ∈ [0 ; 200g] (HX711)
 - Lecture de la témpérature (DHT11)
-- Choix de l'affichage Node-RED : **Balance classée avec masses classées** ou **Balance étalonnée avec masses étalonnées**
+- Choix de l'affichage de la masse sur Node-RED :
+  1 - **Balance classée avec masses classées**
+  2 - **Balance étalonnée avec masses étalonnées**
 
 ⚖️ Projet Balance Connectée - BUT3 MP Marseille
 
