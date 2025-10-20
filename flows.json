@@ -1,0 +1,1418 @@
+[
+    {
+        "id": "d2b9e9818723ca2b",
+        "type": "tab",
+        "label": "Balance Connecté - MS",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e3763044c72f7aa5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "147.94.231.51",
+        "port": "",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "01e3734694c03f65",
+        "type": "ui_tab",
+        "name": "Balance connectée - MS",
+        "icon": "dashboard",
+        "order": 7,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "d12d99c79655f429",
+        "type": "ui_group",
+        "name": "Header_Time",
+        "tab": "01e3734694c03f65",
+        "order": 1,
+        "disp": false,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "04ec6da987e2505a",
+        "type": "ui_group",
+        "name": "Status",
+        "tab": "01e3734694c03f65",
+        "order": 2,
+        "disp": false,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5c22315aefb2e600",
+        "type": "ui_group",
+        "name": "Header_Temp",
+        "tab": "01e3734694c03f65",
+        "order": 3,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "74e15b8b0c4f4d22",
+        "type": "ui_group",
+        "name": "Mass_result",
+        "tab": "01e3734694c03f65",
+        "order": 7,
+        "disp": false,
+        "width": 24,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "360f75a514d41036",
+        "type": "ui_group",
+        "name": "Button2",
+        "tab": "01e3734694c03f65",
+        "order": 5,
+        "disp": false,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "245475000d042399",
+        "type": "ui_group",
+        "name": "Button1",
+        "tab": "01e3734694c03f65",
+        "order": 4,
+        "disp": false,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ce98ccfaf9746c95",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-custom",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "reset": false
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#4B7930",
+                    "value": "#4B7930",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#4B7930",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#6db046",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#4b7930",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Balance Connectée - MS 2",
+            "hideToolbar": "true",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 30,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "a53c49898515d5c3",
+        "type": "ui_group",
+        "name": "Boutons",
+        "tab": "",
+        "order": 1,
+        "width": 12,
+        "collapse": false
+    },
+    {
+        "id": "60c89763b03f6711",
+        "type": "ui_group",
+        "name": "Résultat",
+        "tab": "",
+        "order": 2,
+        "width": 12,
+        "collapse": false
+    },
+    {
+        "id": "719344f53494419c",
+        "type": "ui_tab",
+        "name": "Balance",
+        "icon": "fa-balance-scale",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "9dc475d2859bb190",
+        "type": "ui_group",
+        "name": "Affichage",
+        "tab": "719344f53494419c",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "ac3817e8ae414f4a",
+        "type": "ui_tab",
+        "name": "Balance",
+        "icon": "fa-balance-scale",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "c955da999d7699a7",
+        "type": "ui_group",
+        "name": "Affichage",
+        "tab": "ac3817e8ae414f4a",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "41731ca68ee96c03",
+        "type": "mqtt-broker",
+        "name": "Serveur MQTT",
+        "broker": "147.94.231.51",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true
+    },
+    {
+        "id": "d8e955b9e7f46360",
+        "type": "ui_tab",
+        "name": "Balance",
+        "icon": "fa-balance-scale",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "8923ed126f9613e1",
+        "type": "ui_group",
+        "name": "Affichage",
+        "tab": "d8e955b9e7f46360",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "329f4b93761d7721",
+        "type": "mqtt-broker",
+        "name": "Serveur MQTT",
+        "broker": "147.94.231.51",
+        "port": "1883",
+        "autoConnect": true
+    },
+    {
+        "id": "1c8abdaaf247b568",
+        "type": "ui_tab",
+        "name": "Balance",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "c743c9bebc89bc12",
+        "type": "ui_group",
+        "name": "Mesures",
+        "tab": "1c8abdaaf247b568",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "c1a513d6f07cdbee",
+        "type": "ui_group",
+        "name": "Header-bottom",
+        "tab": "01e3734694c03f65",
+        "order": 7,
+        "disp": false,
+        "width": 24,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b23ede316eb1de74",
+        "type": "ui_spacer",
+        "z": "d2b9e9818723ca2b",
+        "name": "spacer",
+        "group": "04ec6da987e2505a",
+        "order": 2,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "e56fdd0c56c3bd68",
+        "type": "ui_spacer",
+        "z": "d2b9e9818723ca2b",
+        "name": "spacer",
+        "group": "04ec6da987e2505a",
+        "order": 5,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "9f423d927b8a816c",
+        "type": "ui_spacer",
+        "z": "d2b9e9818723ca2b",
+        "name": "spacer",
+        "group": "74e15b8b0c4f4d22",
+        "order": 1,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "97562595e1b1c4f0",
+        "type": "ui_spacer",
+        "z": "d2b9e9818723ca2b",
+        "name": "spacer",
+        "group": "74e15b8b0c4f4d22",
+        "order": 3,
+        "width": 8,
+        "height": 1
+    },
+    {
+        "id": "51d6cebc255a1f5a",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/0/status_1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 180,
+        "wires": [
+            [
+                "68778c113ea0f5dc",
+                "e45e44c4ec9a6f14"
+            ]
+        ]
+    },
+    {
+        "id": "1e21183143a0c05a",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/0/status_2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 280,
+        "wires": [
+            [
+                "db6c03ea91d2728b",
+                "b67c38bcbbc93974"
+            ]
+        ]
+    },
+    {
+        "id": "308309d98782939b",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/0/status_3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 630,
+        "y": 180,
+        "wires": [
+            [
+                "bf619b9f15d80ba1",
+                "e2506b2c10a1cad8"
+            ]
+        ]
+    },
+    {
+        "id": "ecd4f9d26a18e325",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/0/status_4",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 630,
+        "y": 280,
+        "wires": [
+            [
+                "90a78db2b7b418c9",
+                "bd7b1b038f37e49a"
+            ]
+        ]
+    },
+    {
+        "id": "e45e44c4ec9a6f14",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 400,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "b67c38bcbbc93974",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 400,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "e2506b2c10a1cad8",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "bd7b1b038f37e49a",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "f98f257754cc3616",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/1/temp",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1040,
+        "y": 220,
+        "wires": [
+            [
+                "7eadb9c029586d79",
+                "df3375f11c2f536c"
+            ]
+        ]
+    },
+    {
+        "id": "df3375f11c2f536c",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1260,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "5da45711526bfe2b",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/1/masse1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 660,
+        "wires": [
+            [
+                "769baaef198f4276",
+                "606c16fc5a58a564"
+            ]
+        ]
+    },
+    {
+        "id": "769baaef198f4276",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "746b4d0b1217ddae",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/2/incert_1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 410,
+        "y": 940,
+        "wires": [
+            [
+                "689a6042a3a865ac",
+                "55f9b02d10e9e0d4"
+            ]
+        ]
+    },
+    {
+        "id": "689a6042a3a865ac",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "d864628e3188d298",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/2/incert_2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 410,
+        "y": 1060,
+        "wires": [
+            [
+                "7eb7c48b783b827d",
+                "f484b3105daea13b"
+            ]
+        ]
+    },
+    {
+        "id": "7eb7c48b783b827d",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "606c16fc5a58a564",
+        "type": "change",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "masse1",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "x": 410,
+        "y": 680,
+        "wires": [
+            [
+                "ef3cf7ec5f370623"
+            ]
+        ]
+    },
+    {
+        "id": "55f9b02d10e9e0d4",
+        "type": "change",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "classee",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "x": 650,
+        "y": 960,
+        "wires": [
+            [
+                "ef3cf7ec5f370623"
+            ]
+        ]
+    },
+    {
+        "id": "f484b3105daea13b",
+        "type": "change",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "verifiee",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "x": 650,
+        "y": 1080,
+        "wires": [
+            [
+                "ef3cf7ec5f370623"
+            ]
+        ]
+    },
+    {
+        "id": "0c7fccfd60bab49b",
+        "type": "change",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "selection",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "x": 720,
+        "y": 480,
+        "wires": [
+            [
+                "ef3cf7ec5f370623"
+            ]
+        ]
+    },
+    {
+        "id": "9a7301a1812bc976",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1240,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "3462a0f43d2c3e1f",
+        "type": "ui_button",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "group": "245475000d042399",
+        "order": 1,
+        "width": 12,
+        "height": 1,
+        "passthru": false,
+        "label": "Balance étalonnées avec masses étalonnées",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "center-btn",
+        "icon": "",
+        "payload": "verifiee",
+        "payloadType": "str",
+        "topic": "notifs",
+        "topicType": "msg",
+        "x": 290,
+        "y": 520,
+        "wires": [
+            [
+                "0c7fccfd60bab49b",
+                "2ccbdae7a3de3c7d"
+            ]
+        ]
+    },
+    {
+        "id": "8ebc6672b34c1ba8",
+        "type": "ui_button",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "group": "360f75a514d41036",
+        "order": 1,
+        "width": 12,
+        "height": 1,
+        "passthru": false,
+        "label": "Balance classée avec masses classées",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "green",
+        "className": "center-btn",
+        "icon": "",
+        "payload": "classee",
+        "payloadType": "str",
+        "topic": "notifs",
+        "topicType": "str",
+        "x": 300,
+        "y": 460,
+        "wires": [
+            [
+                "0c7fccfd60bab49b",
+                "2ccbdae7a3de3c7d"
+            ]
+        ]
+    },
+    {
+        "id": "68778c113ea0f5dc",
+        "type": "ui_text",
+        "z": "d2b9e9818723ca2b",
+        "group": "04ec6da987e2505a",
+        "order": 1,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "État ESP32",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 410,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "db6c03ea91d2728b",
+        "type": "ui_text",
+        "z": "d2b9e9818723ca2b",
+        "group": "04ec6da987e2505a",
+        "order": 4,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "État DHT11",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 410,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "bf619b9f15d80ba1",
+        "type": "ui_text",
+        "z": "d2b9e9818723ca2b",
+        "group": "04ec6da987e2505a",
+        "order": 3,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "État Wifi",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 820,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "90a78db2b7b418c9",
+        "type": "ui_text",
+        "z": "d2b9e9818723ca2b",
+        "group": "04ec6da987e2505a",
+        "order": 6,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "État MQTT",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 830,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "7eadb9c029586d79",
+        "type": "ui_text",
+        "z": "d2b9e9818723ca2b",
+        "group": "5c22315aefb2e600",
+        "order": 1,
+        "width": 6,
+        "height": 2,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-center",
+        "className": "",
+        "style": true,
+        "font": "",
+        "fontSize": "36",
+        "color": "#ffffff",
+        "x": 1250,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "6e0e366e6a7723c5",
+        "type": "ui_template",
+        "z": "d2b9e9818723ca2b",
+        "group": "d12d99c79655f429",
+        "name": "date + heure",
+        "order": 1,
+        "width": 8,
+        "height": 2,
+        "format": "<div style=\"text-align:center; font-family: 'Segoe UI', sans-serif; color:#fff;\">\n    <div style=\"font-size: 1.5em; margin-top:0px;\">\n        <span id=\"date\"></span><br>\n        <span id=\"heure\" style=\"font-weight:bold; font-size:2em;\"></span>\n    </div>\n</div>\n\n<script>\n    (function() {\n  function majDateHeure() {\n    const maintenant = new Date();\n\n    // Format de la date : lundi 13 octobre 2025\n    const optionsDate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };\n    const dateStr = maintenant.toLocaleDateString('fr-FR', optionsDate);\n\n    // Format de l'heure : 14:37:05\n    const heureStr = maintenant.toLocaleTimeString('fr-FR', { hour12: false });\n\n    document.getElementById(\"date\").textContent = dateStr.charAt(0).toUpperCase() + dateStr.slice(1);\n    document.getElementById(\"heure\").textContent = heureStr;\n  }\n\n  // Mise à jour immédiate puis chaque seconde\n  majDateHeure();\n  setInterval(majDateHeure, 1000);\n})();\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 150,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7981c7b04325abf1",
+        "type": "ui_template",
+        "z": "d2b9e9818723ca2b",
+        "group": "74e15b8b0c4f4d22",
+        "name": "m = ± g",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align:center; font-size:1.5em;\">\n  {{msg.payload}}\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "",
+        "x": 1220,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ef052f83d8d75819",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "12.29",
+        "payloadType": "str",
+        "x": 170,
+        "y": 720,
+        "wires": [
+            [
+                "606c16fc5a58a564"
+            ]
+        ]
+    },
+    {
+        "id": "1243a372f675afe5",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0.018",
+        "payloadType": "str",
+        "x": 450,
+        "y": 1000,
+        "wires": [
+            [
+                "55f9b02d10e9e0d4"
+            ]
+        ]
+    },
+    {
+        "id": "8b941166fcc4507b",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0.012",
+        "payloadType": "str",
+        "x": 450,
+        "y": 1140,
+        "wires": [
+            [
+                "f484b3105daea13b"
+            ]
+        ]
+    },
+    {
+        "id": "2ccbdae7a3de3c7d",
+        "type": "ui_toast",
+        "z": "d2b9e9818723ca2b",
+        "position": "bottom right",
+        "displayTime": "3",
+        "highlight": "WHITE",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "msg.notifs",
+        "name": "Sélection : ",
+        "x": 710,
+        "y": 540,
+        "wires": [],
+        "info": "// Exemple : envoyer une notification \"Classée\" ou \"Vérifiée\" formatée\n// msg.payload attendu = texte principal (string) ou objet -> on construit la string\n\nlet p = msg.payload || {};\n// si payload est un objet JSON (depuis ton mqtt / function précédent)\nlet mode = p.mode || \"Classée\";           // \"Classée\" ou \"Vérifiée\" etc.\nlet classe = p.classe || \"\";\nlet masse = (p.masse !== undefined) ? Number(p.masse).toFixed(3) + \" g\" : \"\";\nlet incert = (p.incert_2 !== undefined) ? (\" ± \" + Number(p.incert_2).toFixed(3) + \" g (k=2)\") : \"\";\n\n// Choix d'icône simple (emoji) selon mode\nlet icon = mode.toLowerCase().includes(\"vérif\") ? \"✅\" : (mode.toLowerCase().includes(\"class\") ? \"📦\" : \"⚠️\");\n\n// Construire le titre (court) et le message (détaillé)\nmsg.title = icon + \" \" + mode;       // titre affiché par ui_toast\nmsg.timeout = p.auto_dismiss || 8000; // ms\n\n// Payload textuel — on peut utiliser du texte simple. Certains dashboards permettent HTML si allowEscape=false\nmsg.payload = `${classe} • ${masse}${incert}\\nLecture: ${Number(p.reading||0).toFixed(3)} g`;\n\n// Optionnel : niveau de priorité / tag pour filtrer côté Node-RED si tu as plusieurs toasts\nmsg.level = (mode.toLowerCase().includes(\"vérif\") ? \"success\" : \"warning\");\n\nreturn msg;\n"
+    },
+    {
+        "id": "3253eb1124d99da7",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "24.6",
+        "payloadType": "str",
+        "x": 1050,
+        "y": 160,
+        "wires": [
+            [
+                "7eadb9c029586d79"
+            ]
+        ]
+    },
+    {
+        "id": "ef3cf7ec5f370623",
+        "type": "function",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "func": "// Helpers\nconst toNum = v => (v == null ? null : Number((v + '').replace(',', '.')));\nconst fmt = x => (Number.isFinite(x) ? x.toFixed(3) : '---');\n\n// Mise à jour du contexte selon le message reçu\nconst t = (msg.topic || '').toLowerCase();\nconst n = toNum(msg.payload);\nif (t.endsWith('masse1')) flow.set('masse1', n);\nif (t.endsWith('masse2')) flow.set('masse2', n);\nif (t.endsWith('incert_1')) flow.set('classee', n);\nif (t.endsWith('incert_2')) flow.set('verifiee', n);\n\n// Sélection du mode (boutons)\nconst p = (msg.payload + '').toLowerCase();\nif (p === 'classee' || p === 'verifiee') flow.set('selection', p);\n\n// Lecture et affichage\nconst sel = flow.get('selection') || 'classee';\nconst m = toNum(flow.get(sel === 'classee' ? 'masse1' : 'masse2'));\nconst u = toNum(flow.get(sel === 'classee' ? 'classee' : 'verifiee'));\n\nmsg.payload = `m = ${fmt(m)} ± ${fmt(u)} g`;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 780,
+        "wires": [
+            [
+                "7981c7b04325abf1",
+                "9a7301a1812bc976"
+            ]
+        ]
+    },
+    {
+        "id": "305301a9dd9b260b",
+        "type": "ui_template",
+        "z": "d2b9e9818723ca2b",
+        "group": "d12d99c79655f429",
+        "name": "background",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n    body {\n        background: linear-gradient(135deg, #000000, #2c2c2c, #000000);\n        background-size: 300% 300%;\n        animation: gradientMove 8s ease infinite;\n        color: white;\n    }\n\n    @keyframes gradientMove {\n        0% {\n            background-position: 0% 50%;\n        }\n\n        50% {\n            background-position: 100% 50%;\n        }\n\n        100% {\n            background-position: 0% 50%;\n        }\n    }\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 330,
+        "y": 60,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e6e28cafda968f0f",
+        "type": "mqtt in",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/1/masse2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "e3763044c72f7aa5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 780,
+        "wires": [
+            [
+                "2ff2654ea2193e87",
+                "e21937168b3a1bf2"
+            ]
+        ]
+    },
+    {
+        "id": "2ff2654ea2193e87",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "e21937168b3a1bf2",
+        "type": "change",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "masse2",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "x": 410,
+        "y": 800,
+        "wires": [
+            [
+                "ef3cf7ec5f370623"
+            ]
+        ]
+    },
+    {
+        "id": "4161b83ff379e835",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "49,99",
+        "payloadType": "str",
+        "x": 170,
+        "y": 840,
+        "wires": [
+            [
+                "e21937168b3a1bf2"
+            ]
+        ]
+    },
+    {
+        "id": "a1d5f481879e26c9",
+        "type": "ui_button",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "group": "74e15b8b0c4f4d22",
+        "order": 2,
+        "width": 8,
+        "height": 1,
+        "passthru": false,
+        "label": "MESURER",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "purple",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 150,
+        "y": 1300,
+        "wires": [
+            [
+                "90a7b5c5b2ca783f",
+                "951d213bec78c823"
+            ]
+        ]
+    },
+    {
+        "id": "90a7b5c5b2ca783f",
+        "type": "mqtt out",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "topic": "Balance/3/mesure",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "e3763044c72f7aa5",
+        "x": 390,
+        "y": 1300,
+        "wires": []
+    },
+    {
+        "id": "951d213bec78c823",
+        "type": "debug",
+        "z": "d2b9e9818723ca2b",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 400,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "88d1e46c26f0fa35",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "✅",
+        "payloadType": "str",
+        "x": 650,
+        "y": 120,
+        "wires": [
+            [
+                "bf619b9f15d80ba1"
+            ]
+        ]
+    },
+    {
+        "id": "c14dc9547c9dcdd2",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "✅",
+        "payloadType": "str",
+        "x": 650,
+        "y": 240,
+        "wires": [
+            [
+                "90a78db2b7b418c9"
+            ]
+        ]
+    },
+    {
+        "id": "23224eaaa07f4b25",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "✅",
+        "payloadType": "str",
+        "x": 230,
+        "y": 120,
+        "wires": [
+            [
+                "68778c113ea0f5dc"
+            ]
+        ]
+    },
+    {
+        "id": "43a15f4ed28aa65b",
+        "type": "inject",
+        "z": "d2b9e9818723ca2b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "✅",
+        "payloadType": "str",
+        "x": 230,
+        "y": 240,
+        "wires": [
+            [
+                "db6c03ea91d2728b"
+            ]
+        ]
+    },
+    {
+        "id": "76300a4d4276c4d8",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]
