@@ -23,7 +23,9 @@
 
 # Matériels & Logiciels utilisés
 
-- ESP32
+- ESP32                                    - Visual Studio Code & PlatformIO
 
-- 
+- DHT11                                    - Mosquitto (serveur)
+
+- HX711 + Cellule de charge                - Node-RED (interface utilisateur)
 
