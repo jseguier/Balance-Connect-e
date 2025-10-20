@@ -25,7 +25,11 @@
 
 | Quantité | Composant | 
 |  --- | --- | 
-| '1' | ESP32 | 
+| 1 | `Microcontrôleur ESP32` | 
+| 1 | `Capteur de température DHT11` | 
+| 1 | `Convertiseur & amplificateur HX711` | 
+| 1 | `Cellule de charge` | 
+
 - ESP32                                    - Visual Studio Code & PlatformIO
 
 > [!WARNING]
