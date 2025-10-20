@@ -13,5 +13,5 @@ Projet réalisé en binôme dans le cadre d'un projet d'Instrumentation Avancée
 - Mosquitto (Serveur)
 - Node-RED (interface utilisateur)
 
-  <img width="2868" height="874" alt="image" src="https://github.com/user-attachments/assets/f7682111-006a-4866-8290-25ec8bca5528" />
+<img width="2868" height="874" alt="image" src="https://github.com/user-attachments/assets/f7682111-006a-4866-8290-25ec8bca5528" />
 
