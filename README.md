@@ -23,6 +23,9 @@
 
 # Matériels & Logiciels utilisés
 
+| Quantité | Composant | 
+|  --- | --- | 
+| '1' | ESP32 | 
 - ESP32                                    - Visual Studio Code & PlatformIO
 
 - DHT11                                    - Mosquitto (serveur)
