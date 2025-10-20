@@ -4,7 +4,7 @@
 
 # Introduction
 
-Dans le cadre d'un **projet en Instrumentation Avancée** au département Mesures Physiques de Marseille, nous avons réalisé en **binôme** une **balance connectée** dont l'objectif était de **mesurer** une masse dans un intervalle **∈ [0 ; 200g]** et de **transmettre** les données à une **interface Node-RED** via un **protocole MQTT**.
+  Dans le cadre d'un **projet en Instrumentation Avancée** au département Mesures Physiques de Marseille, nous avons réalisé en **binôme** une **balance connectée** dont l'objectif était de **mesurer** une masse dans un intervalle **∈ [0 ; 200g]** et de **transmettre** les données à une **interface Node-RED** via un **protocole MQTT**.
 
 # Fonctionnalités 
 
