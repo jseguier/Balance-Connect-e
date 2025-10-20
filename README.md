@@ -43,7 +43,7 @@
 | `Node-RED (interface utilisateur)` | 
 
 
-
+<img width="2724" height="1240" alt="image" src="https://github.com/user-attachments/assets/e46aebbf-791b-450d-93dd-db6052637d97" />
 
 
 > [!WARNING]
