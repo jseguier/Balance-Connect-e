@@ -18,5 +18,5 @@
   
 - Choix de l'affiche : **Balance classée** ou **Balance étalonnée**
 
-- 
+# Matériels & Logiciels utilisés
 
