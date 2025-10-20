@@ -30,12 +30,13 @@
 | 1 | `Convertiseur & amplificateur HX711` | 
 | 1 | `Cellule de charge` | 
 
-- ESP32                                    - Visual Studio Code & PlatformIO
+| Logiciels | 
+|  :---:  |
+| `Visual Studio Code & envrionnement PlatformIO` | 
+| `Mosquitto (protocole MQTT)` | 
+| `Node-RED (interface utilisateur)` | 
+
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
-
-- DHT11                                    - Mosquitto (serveur)
-
-- HX711 + Cellule de charge                - Node-RED (interface utilisateur)
 
