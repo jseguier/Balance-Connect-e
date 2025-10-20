@@ -28,6 +28,9 @@
 | '1' | ESP32 | 
 - ESP32                                    - Visual Studio Code & PlatformIO
 
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
 - DHT11                                    - Mosquitto (serveur)
 
 - HX711 + Cellule de charge                - Node-RED (interface utilisateur)
