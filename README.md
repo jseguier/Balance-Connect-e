@@ -4,6 +4,8 @@
 
 # Introduction
 
+# Fonctionnalités 
+
 ⚖️ Projet Balance Connectée - BUT3 MP Marseille
 
 Projet réalisé en binôme dans le cadre d'un projet d'Instrumentation Avancée - L'objectif était de concevoir une balance connectée capable de mesurer une masse ∈ [0 ; 200g] et de transmettre les données à une interface Node-RED via un protocole MQTT.
