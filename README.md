@@ -24,7 +24,7 @@
 # Matériels & Logiciels utilisés
 
 | Quantité | Composant | 
-|  --- | --- | 
+|  :---:  | :---:  | 
 | 1 | `Microcontrôleur ESP32` | 
 | 1 | `Capteur de température DHT11` | 
 | 1 | `Convertiseur & amplificateur HX711` | 
