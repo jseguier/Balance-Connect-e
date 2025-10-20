@@ -32,7 +32,7 @@
 
 | Logiciels | 
 |  :---:  |
-| `Visual Studio Code & envrionnement PlatformIO` | 
+| `Visual Studio Code &  PlatformIO` | 
 | `Mosquitto (protocole MQTT)` | 
 | `Node-RED (interface utilisateur)` | 
 
