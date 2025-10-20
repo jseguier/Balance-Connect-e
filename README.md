@@ -15,14 +15,14 @@
 - Bouton de peser pour la mesure d'une masse comprise entre 0 et 200g.
   
 - Lecture & affichage de la témpérature à l'aide du capteur DHT11.
-  
-- Affichage formaté de la masse sur Node-RED: **m = [masse] ± [incertitude] g**.
-  
-- Choix de l'affichage : **Balance étalonnée** ou **Balance classée**.
 
 - Affichage de l'heure et de la date de la mesure.
 
 - Background animé : dégradé blanc/gris.
+  
+- Choix de l'affichage : **Balance étalonnée** ou **Balance classée**.
+  
+- Affichage formaté de la masse sur Node-RED: **m = [masse] ± [incertitude] g**.
 
 
 # Matériels utilités
