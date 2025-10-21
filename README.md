@@ -54,8 +54,8 @@
 
 | Logiciels |  Description | 
 |  :---:  |  :---:  |
-| `Visual Studio Code &  PlatformIO` | Éditeut de code source développé par Microsoft| 
-| `Mosquitto (protocole MQTT)` | | 
+| `Visual Studio Code &  PlatformIO` | Éditeur de code source développé par Microsoft| 
+| `Mosquitto (protocole MQTT)` | Brocker open-source utilisant le protocole MQTT| 
 | `Node-RED (interface utilisateur)` | | 
 
 > [!WARNING]
