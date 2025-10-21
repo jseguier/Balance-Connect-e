@@ -89,7 +89,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 # Logigrammes
 
 <p align="center">
-  <img width="205" height="464" alt="image" src="https://github.com/user-attachments/assets/f6fbc17f-2da2-4bc9-97bb-e6ada333f736" /> <img width="600" height="738" alt="image" src="https://github.com/user-attachments/assets/aaddfa4b-7877-473e-b142-0c5bf20ccd21" />
+  <img width="205" height="459" alt="image" src="https://github.com/user-attachments/assets/f6fbc17f-2da2-4bc9-97bb-e6ada333f736" /> <img width="600" height="738" alt="image" src="https://github.com/user-attachments/assets/aaddfa4b-7877-473e-b142-0c5bf20ccd21" />
 
 
 
