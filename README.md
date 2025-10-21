@@ -36,7 +36,7 @@
 
 
 
-| Identification | Quantité | Composant | 
+| Identification | Quantité | Principaux composants | 
 |  :---:  |  :---:  | :---:  | 
 | 1 | 1 | `Microcontrôleur ESP32` | 
 | 2 | 1 | `Capteur de température DHT11` | 
