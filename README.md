@@ -50,7 +50,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 | 3 | 1 | `Convertiseur & amplificateur HX711` | 
 | 4 | 1 | `Cellule de charge` | 
 | 5 | 2 | `BreadBoard` | 
-| 5 | 1 | `Masses d'essais` | 
+| 6 | 1 | `Masses d'essais` | 
 
 </div>
 <br>
