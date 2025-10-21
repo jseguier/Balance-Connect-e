@@ -90,7 +90,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 <p align="center">
     :---------------------------------------:  |  :---------------------------------------------------------------------:  
-  ![] <img width="251" height="659" alt="image" src="https://github.com/user-attachments/assets/f6fbc17f-2da2-4bc9-97bb-e6ada333f736" /> | ![]<img width="1786" height="1464" alt="image" src="https://github.com/user-attachments/assets/9cd596b3-f4f3-4630-b6e2-166565529731" />
+  ![] <img width="251" height="659" alt="image" src="https://github.com/user-attachments/assets/f6fbc17f-2da2-4bc9-97bb-e6ada333f736" /> | ![]<img width="1188" height="976" alt="image" src="https://github.com/user-attachments/assets/9cd596b3-f4f3-4630-b6e2-166565529731" />
 
 
 
