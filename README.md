@@ -35,16 +35,16 @@
 
 
 
-<p align="center">
-  | Identification | Quantité | Principaux composants | 
-  |  :---:  |  :---:  | :---:  | 
-  | 1 | 1 | `Microcontrôleur ESP32` | 
-  | 2 | 1 | `Capteur de température DHT11` | 
-  | 3 | 1 | `Convertiseur & amplificateur HX711` | 
-  | 4 | 1 | `Cellule de charge` | 
-  | 5 | 2 | `BreadBoard` | 
-  | 5 | 1 | `Masse de 100g` | 
-</p>
+
+| Identification | Quantité | Principaux composants | 
+|  :---:  |  :---:  | :---:  | 
+| 1 | 1 | `Microcontrôleur ESP32` | 
+| 2 | 1 | `Capteur de température DHT11` | 
+| 3 | 1 | `Convertiseur & amplificateur HX711` | 
+| 4 | 1 | `Cellule de charge` | 
+| 5 | 2 | `BreadBoard` | 
+| 5 | 1 | `Masse de 100g` | 
+
 
 
 
