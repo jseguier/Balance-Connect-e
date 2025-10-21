@@ -7,7 +7,7 @@
 
 Dans le cadre d'un **projet en Instrumentation Avancée** au département Mesures Physiques de Marseille, nous avons réalisé en **binôme** une **balance connectée** dont l'objectif était de **mesurer** une masse dans un intervalle compris entre 0 et 200g et de **transmettre** les données à une **interface Node-RED** via un **protocole MQTT**.
 
-La balance s'appuie sur une cellule de charge associée à un convertisseur/amplficateur HX711, l'ensemble relié à un ESP32. L'exploitation dy système, à l'exception de la tare qui est effectuée directement via la console série, est réalisée sur une interface Node-RED.
+La balance s'appuie sur une cellule de charge associée à un convertisseur/amplficateur HX711, l'ensemble étant relié à un ESP32. L'exploitation dy système, à l'exception de la tare qui est effectuée directement via la console série, est réalisée sur une interface Node-RED.
 
 
 # Fonctionnalités 
