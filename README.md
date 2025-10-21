@@ -71,6 +71,6 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 <br>
 <br>
 
-> [!WARNING]
+> [!VIGILANCE]
 > En cas d'instabilité de la mesure, relancer la carte ESP3 qui relancera la tare avec la masse étalon de 100g.
 
