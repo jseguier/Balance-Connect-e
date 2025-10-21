@@ -30,12 +30,15 @@
 <img width="2724" height="1240" alt="image" src="https://github.com/user-attachments/assets/e46aebbf-791b-450d-93dd-db6052637d97" />
 
 
-| Quantité | Composant | 
-|  :---:  | :---:  | 
-| 1 | `Microcontrôleur ESP32` | 
-| 1 | `Capteur de température DHT11` | 
-| 1 | `Convertiseur & amplificateur HX711` | 
-| 1 | `Cellule de charge` | 
+| Identification | Quantité | Composant | 
+|  :---:  |  :---:  | :---:  | 
+| 1 || 1 | `Microcontrôleur ESP32` | 
+| 2 | 1 | `Capteur de température DHT11` | 
+| 3 | 1 | `Convertiseur & amplificateur HX711` | 
+| 4 | 1 | `Cellule de charge` | 
+| 5 | 2 | `BreadBoard` | 
+| 5 |  | `BreadBoard` | 
+
 
 
 # Logiciels utilisés
