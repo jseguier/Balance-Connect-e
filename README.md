@@ -56,7 +56,7 @@
 |  :---:  |  :---:  |
 | `Visual Studio Code &  PlatformIO` | Éditeur de code source développé par Microsoft| 
 | `Mosquitto (protocole MQTT)` | Brocker open-source utilisant le protocole MQTT| 
-| `Node-RED (interface utilisateur)` | | 
+| `Node-RED (interface utilisateur)` | Outil de développment " low-code", de programmation visuelle basé sur des flux | 
 
 > [!WARNING]
 > En cas d'instabilité de la mesure, relancer la tare avec la masse étalon de 100g.
