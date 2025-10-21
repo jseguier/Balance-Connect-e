@@ -31,6 +31,8 @@
   <img width="1362" height="620" alt="Capture d’écran 2025-10-20 à 22 24 05" src="https://github.com/user-attachments/assets/c5e84c0d-e4f9-4483-9fb4-bf41827d58ee" />
   <br>
   <em>Figure 1 – Illustration de l'assemblage de la balance</em>
+  <br>
+  <br>
 </p>
 
 
