@@ -37,7 +37,8 @@
 
 
 
-
+<div align="center">
+  
 | Identification | Quantité | Principaux composants | 
 |  :---:  |  :---:  | :---:  | 
 | 1 | 1 | `Microcontrôleur ESP32` | 
@@ -46,6 +47,7 @@
 | 4 | 1 | `Cellule de charge` | 
 | 5 | 2 | `BreadBoard` | 
 | 5 | 1 | `Masses d'essais` | 
+</div>
 
 
 
