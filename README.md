@@ -1,6 +1,12 @@
 # ⚖️ Balance Connectée
 
-<img width="2868" height="874" alt="image" src="https://github.com/user-attachments/assets/f7682111-006a-4866-8290-25ec8bca5528" />
+<p align="center">
+  <img width="2868" height="874" alt="image" src="https://github.com/user-attachments/assets/f7682111-006a-4866-8290-25ec8bca5528" />
+  <br>
+  <em>Figure 1 – Illustration de l'interface utilisateur Node-RED</em>
+  <br>
+  <br>
+</p>
 
 
 # Introduction
@@ -34,7 +40,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 <p align="center">
   <img width="1362" height="620" alt="Capture d’écran 2025-10-20 à 22 24 05" src="https://github.com/user-attachments/assets/c5e84c0d-e4f9-4483-9fb4-bf41827d58ee" />
   <br>
-  <em>Figure 1 – Illustration de l'assemblage de la balance</em>
+  <em>Figure 2 – Illustration de l'assemblage de la balance</em>
   <br>
   <br>
 </p>
