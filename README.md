@@ -49,8 +49,8 @@
 
 # Logiciels utilisés
 
-| Logiciels | 
-|  :---:  |
+| Logiciels |  Description | 
+|  :---:  |  :---:  |
 | `Visual Studio Code &  PlatformIO` | 
 | `Mosquitto (protocole MQTT)` | 
 | `Node-RED (interface utilisateur)` | 
