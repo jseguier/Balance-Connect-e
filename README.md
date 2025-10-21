@@ -45,7 +45,7 @@
 | 3 | 1 | `Convertiseur & amplificateur HX711` | 
 | 4 | 1 | `Cellule de charge` | 
 | 5 | 2 | `BreadBoard` | 
-| 5 | 1 | `Masse de 100g` | 
+| 5 | 1 | `Masses d'essai` | 
 
 
 
