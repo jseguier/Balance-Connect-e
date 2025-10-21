@@ -9,7 +9,7 @@ Dans le cadre d'un **projet en Instrumentation Avancée** au département Mesure
 
 La balance s'appuie sur une **cellule de charge** associée à un **convertisseur/amplficateur HX711**, l'ensemble étant relié à un **ESP32**. L'exploitation du système, <ins>à l'exception de la **tare qui est effectuée directement via la console série**</ins>, est réalisée sur une **interface Node-RED**.
 
-Ce projet se divise en deux axes de travail  : **programmation** et **métrologie**.
+Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <ins>**métrologie**</ins>.
 
 
 # Fonctionnalités 
