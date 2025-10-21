@@ -32,7 +32,7 @@
 
 | Identification | Quantité | Composant | 
 |  :---:  |  :---:  | :---:  | 
-| 1 || 1 | `Microcontrôleur ESP32` | 
+| 1 | 1 | `Microcontrôleur ESP32` | 
 | 2 | 1 | `Capteur de température DHT11` | 
 | 3 | 1 | `Convertiseur & amplificateur HX711` | 
 | 4 | 1 | `Cellule de charge` | 
