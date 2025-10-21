@@ -84,6 +84,11 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 <br>
 <br>
+
+# Logigramme
+
+<br>
+<br>
 <br>
 
 > [!WARNING]
