@@ -59,7 +59,10 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 # Logiciels utilisés
 
-<img width="2868" height="700" alt="image" src="https://github.com/user-attachments/assets/2a44dbd8-9ad4-4f27-996b-8c882e8aa75f" />
+<img width="2868" height="600" alt="image" src="https://github.com/user-attachments/assets/598cdf71-ceae-428d-8c91-b8c504a00a16" />
+
+<br>
+<br>
 
 
 <div align="center">
