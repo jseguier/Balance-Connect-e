@@ -93,6 +93,9 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 # Chaîne d'acquisition
 
+<img width="720" height="195" alt="chaîne d'acquisition" src="https://github.com/user-attachments/assets/f9c27d74-90b8-47c8-aee7-5a014f86d2e2" />
+
+
 <br>
 <br>
 <br>
