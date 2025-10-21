@@ -95,7 +95,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 
   <br>
-  <em>Figure 3 / 4 – Illustrations des logigrammes : à gauche, la tare ; à droite, la mesure d’une masse</em>
+  <em>Figures 3 / 4 – Illustrations des logigrammes : à gauche, la tare ; à droite, la mesure d’une masse</em>
   <br>
   <br>
 </p>
