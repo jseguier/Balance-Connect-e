@@ -109,8 +109,8 @@ void setup() {
   delay(5000);
 
   scale.begin(LOADCELL_DOUT_PIN, LOADCELL_SCK_PIN); // on attribue les pins à la librairie du HX711 
-  scale.set_scale(); // mise à l'échelle de la balance (pas utilisé)
-  scale.tare(); // définit l'offset que l'on souhaite appliqué (pas utilisé)
+  scale.set_scale(); // appel de la fonction 'set_scale()' : on fixe une première fois la valeur de l'échelle par défaut à "1". Cette valeur "par défaut" sera ensuite modifiée
+  scale.tare(); // appel de la fonction 'tare()' : mets à "0" la balance
 
   Serial.println("Calibration ⏳"); // début de la calibration (texte)
   Serial.println("Placer une masse de 100g sur la balance"); // consigne à l'utilisateur
@@ -373,3 +373,4 @@ if (mesure) {
 }
 
 }
+
