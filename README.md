@@ -47,18 +47,21 @@
 | 4 | 1 | `Cellule de charge` | 
 | 5 | 2 | `BreadBoard` | 
 | 5 | 1 | `Masses d'essais` | 
+
 </div>
 
 
-
-
 # Logiciels utilisés
+
+<div align="center">
 
 | Logiciels |  Description | 
 |  :---:  |  :---:  |
 | `Visual Studio Code &  PlatformIO` | Éditeur de code source développé par Microsoft| 
 | `Mosquitto (protocole MQTT)` | Brocker open-source utilisant le protocole MQTT : collecte les données des capteurs | 
 | `Node-RED (interface utilisateur)` | Outil de développment " low-code" : programmation visuelle basé sur des flux | 
+
+</div>
 
 <br>
 <br>
