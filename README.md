@@ -54,9 +54,9 @@
 
 | Logiciels |  Description | 
 |  :---:  |  :---:  |
-| `Visual Studio Code &  PlatformIO` | 
-| `Mosquitto (protocole MQTT)` | 
-| `Node-RED (interface utilisateur)` | 
+| `Visual Studio Code &  PlatformIO` | Éditeut de code source développé par Microsoft| 
+| `Mosquitto (protocole MQTT)` | | 
+| `Node-RED (interface utilisateur)` | | 
 
 > [!WARNING]
 > En cas d'instabilité de la mesure, relancer la tare avec la masse étalon de 100g.
