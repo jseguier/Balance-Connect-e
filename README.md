@@ -3,7 +3,7 @@
 <p align="center">
   <img width="2868" height="874" alt="image" src="https://github.com/user-attachments/assets/f7682111-006a-4866-8290-25ec8bca5528" />
   <br>
-  <em>Figure 1 – Illustration de l'interface utilisateur Node-RED (Valeurs données à titre d’exemple)</em>
+  <em>Figure 1 – Illustration de l'interface utilisateur Node-RED ( Valeurs données à titre d’exemple )</em>
   <br>
   <br>
 </p>
