@@ -91,6 +91,12 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 <br>
 <br>
 
+# Chaîne d'acquisition
+
+<br>
+<br>
+<br>
+
 > [!WARNING]
 > En cas d’instabilité de la mesure, il suffit de redémarrer la carte ESP32, ce qui relancera automatiquement la tare à l’aide de la masse étalon de 100g.
 
