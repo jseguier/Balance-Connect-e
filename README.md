@@ -87,6 +87,14 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 # Logigramme
 
+<p align="center">
+  <img width="2634" height="710" alt="image" src="" />
+  <br>
+  <em>Figure 3 – Illustration du logigramme</em>
+  <br>
+  <br>
+</p>
+
 <br>
 <br>
 <br>
@@ -96,7 +104,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 <p align="center">
   <img width="2634" height="710" alt="image" src="https://github.com/user-attachments/assets/b5ec88a6-5fbc-4e06-b5c9-b1161749fcf2" />
   <br>
-  <em>Figure 3 – Illustration de la chaîne d'acquisiton</em>
+  <em>Figure 4 – Illustration de la chaîne d'acquisiton</em>
   <br>
   <br>
 </p>
