@@ -86,7 +86,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 <br>
 <br>
 
-# Logigramme
+# Logigrammes
 
 <p align="center">
   <img width="205" height="544" alt="image" src="https://github.com/user-attachments/assets/f6fbc17f-2da2-4bc9-97bb-e6ada333f736" /> <img width="800" height="538" alt="image" src="https://github.com/user-attachments/assets/aaddfa4b-7877-473e-b142-0c5bf20ccd21" />
@@ -95,7 +95,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 
 
   <br>
-  <em>Figure 3 – Illustration du logigramme</em>
+  <em>Figure 3 / 4 – Illustration des logigrammes : respectivement à gauche, celui de la tare ; à droite, celui de la mesure d'une masse</em>
   <br>
   <br>
 </p>
@@ -109,7 +109,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 <p align="center">
   <img width="2634" height="710" alt="image" src="https://github.com/user-attachments/assets/b5ec88a6-5fbc-4e06-b5c9-b1161749fcf2" />
   <br>
-  <em>Figure 4 – Illustration de la chaîne d'acquisiton</em>
+  <em>Figure 5 – Illustration de la chaîne d'acquisiton</em>
   <br>
   <br>
 </p>
