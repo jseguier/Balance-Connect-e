@@ -27,7 +27,8 @@
 
 # Matériels utilités
 
-<img width="2724" height="1240" alt="image" src="https://github.com/user-attachments/assets/e46aebbf-791b-450d-93dd-db6052637d97" />
+<img width="1362" height="620" alt="Capture d’écran 2025-10-20 à 22 24 05" src="https://github.com/user-attachments/assets/c5e84c0d-e4f9-4483-9fb4-bf41827d58ee" />
+
 
 
 | Identification | Quantité | Composant | 
