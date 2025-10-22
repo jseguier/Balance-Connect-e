@@ -12,7 +12,7 @@
 
 # Introduction
 
-Dans le cadre d'un **projet en Instrumentation Avancée** au département Mesures Physiques de Marseille, nous avons réalisé en **binôme** une **balance connectée** dont l'objectif était de **mesurer** une masse dans un intervalle compris entre 0 et 200g et de **transmettre** les données à une **interface Node-RED** via un **protocole MQTT**.
+Dans le cadre d'un **projet en Instrumentation Avancée** au département Mesures Physiques de Marseille, nous avons réalisé en **binôme** une **balance connectée** dont l'objectif était de **mesurer** une masse dans un intervalle compris entre 0 et 1000g et de **transmettre** les données à une **interface Node-RED** via un **protocole MQTT**.
 
 La balance s'appuie sur une **cellule de charge** associée à un **convertisseur/amplficateur HX711**, l'ensemble étant relié à un **ESP32**. L'exploitation du système, <ins>à l'exception de la **tare qui est effectuée directement via la console série**</ins>, est réalisée sur une **interface Node-RED**.
 
@@ -79,7 +79,7 @@ Ce projet se divise en deux axes de travail  : <ins>**programmation**</ins> et <
 |  :---:  |  :---:  |
 | `Visual Studio Code &  PlatformIO` | Éditeur de code source développé par Microsoft + environnement de développement IoT PlatformIO | 
 | `Mosquitto (protocole MQTT)` | Brocker open-source utilisant le protocole MQTT : collecte les données des capteurs | 
-| `Node-RED (interface utilisateur)` | Outil de développment " low-code" : programmation visuelle basé sur des flux | 
+| `Node-RED (interface utilisateur)` | Outil de développement " low-code" : programmation visuelle basée sur des flux | 
 
 </div>
 
